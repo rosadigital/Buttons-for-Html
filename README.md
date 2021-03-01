@@ -9,37 +9,30 @@ Pt: Este projeto teve por objetivo testar e conhecer códigos em HTML, CSS, e JS
 
 - Checkbox with a minimalist style.
 	- Languages: HTML, and CSS
-	- Link for demo: <https://www.link.com/>
 <p align="center"> <img alt="checkbox-toggle.png" title="#checkbox-toggle.png" src="./assets/checkbox-toggle.png" width="100px">
 
 - Buttons with effects on click.
 	- Languages: HTML, CSS, and JS
-	- Link for demo: <https://www.link.com/>
 <p align="center"> <img alt="buttons-with-effects" title="#buttons-with-effects" src="./assets/buttons-with-effects.png" width="400px">
  
 - Neon buttons with effects on click.
 	- Languages: HTML, and CSS
-	- Link for demo: <https://www.link.com/>
 <p align="center"> <img alt="neon-button" title="#neon-button" src="./assets/neon-button.png" width="400px">
  
 - Neuomorphic checkbox-buttons.
 	- Languages: HTML, and CSS
-	- Link for demo: <https://www.link.com/>
 <p align="center"> <img alt="neuomorphic-checkbox-button" title="#neuomorphic-checkbox-button" src="./assets/neuomorphic-checkbox-button.png" width="200px">
  
 - Calculator.
 	- Languages: HTML, and CSS
-	- Link for demo: <https://www.link.com/>
 <p align="center"> <img alt="calculator" title="#calculator" src="./assets/calculator.png" width="200px">
  
 - Background color changing on click.
 	- Languages: HTML, CSS, and JS
-	- Link for demo: <https://www.link.com/>
 <p align="center"> <img alt="change_background_color" title="#change_background_color" src="./assets/change_background_color.png" width="400px">
 
 - Background color and HEX code changing on click.
 	- Languages: HTML, CSS, and JS
-	- Link for demo: <https://www.link.com/>
 <p align="center"> <img alt="background_color_flip" title="#background_color_flip" src="./assets/background_color_flip.png" width="400px">
 
 ---
