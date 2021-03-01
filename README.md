@@ -13,7 +13,7 @@ Pt: Este projeto teve por objetivo testar e conhecer códigos em HTML, CSS, e JS
 
 - Buttons with effects on click.
 	- Languages: HTML, CSS, and JS
-<p align="center"> <img alt="buttons-with-effects" title="#buttons-with-effects" src="./assets/buttons-with-effects.png" width="400px">
+<p align="center"> <img alt="buttons-with-effects" title="#buttons-with-effects" src="./assets/buttons-with-effects.gif" width="400px">
  
 - Neon buttons with effects on click.
 	- Languages: HTML, and CSS
