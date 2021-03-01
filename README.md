@@ -21,11 +21,11 @@ Pt: Este projeto teve por objetivo testar e conhecer códigos em HTML, CSS, e JS
  
 - Neuomorphic checkbox-buttons.
 	- Languages: HTML, and CSS
-<p align="center"> <img alt="neuomorphic-checkbox-button" title="#neuomorphic-checkbox-button" src="./assets/neuomorphic-checkbox-button.gif" width="200px">
+<p align="center"> <img alt="neuomorphic-checkbox-button" title="#neuomorphic-checkbox-button" src="./assets/neuomorphic-checkbox-button.gif" width="400px">
  
 - Calculator.
 	- Languages: HTML, and CSS
-<p align="center"> <img alt="calculator" title="#calculator" src="./assets/calculator.gif" width="200px">
+<p align="center"> <img alt="calculator" title="#calculator" src="./assets/calculator.gif" width=400px">
  
 - Background color changing on click.
 	- Languages: HTML, CSS, and JS
