@@ -9,7 +9,7 @@ Pt: Este projeto teve por objetivo testar e conhecer códigos em HTML, CSS, e JS
 
 - Checkbox with a minimalist style.
 	- Languages: HTML, and CSS
-<p align="center"> <img alt="checkbox-toggle.png" title="#checkbox-toggle.png" src="./assets/checkbox-toggle.png" width="100px">
+<p align="center"> <img alt="checkbox-toggle.png" title="#checkbox-toggle.png" src="./assets/checkbox-toggle.gif" width="100px">
 
 - Buttons with effects on click.
 	- Languages: HTML, CSS, and JS
