@@ -33,7 +33,7 @@
 
 ---
 	
-## 💡 Knowledge acquired (demontração do projeto)
+## 💡 Knowledge acquired (conhecimentos adquiridos)
 
 - During this project, I learned:
   - integrate CSS and HTML codes;
