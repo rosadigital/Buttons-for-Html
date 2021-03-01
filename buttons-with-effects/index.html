@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Button Ripple Effect</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <a href="#">Button Ripple Effect</a>
+    <a href="#">Click see the effect</a>
+
+    <footer>
+    <div class="a">
+    <p><br> Developed by Felipe Rosa <br> based on the tutorial "Button Ripple Effect on Click Using CSS3 & Vanilla Javascript" available on YouTube.</p>
+    <!-- https://www.youtube.com/watch?v=ueyRcYEmsrI -->
+    </div>
+    </footer>
+
+    <script type="text/javascript">
+        const button = document.querySelectorAll('a');
+        
+        button.forEach(btn => {
+            btn.addEventListener('click', function(e) {
+
+                let x = e.clientX - e.target.offsetLeft;
+                let y = e.clientY - e.target.offsetTop;
+
+                // to create span tag on click
+                let ripples = document.createElement('span');
+                ripples.style.left = x + 'px';
+                ripples.style.top = y + 'px';
+                this.appendChild(ripples);
+
+                // time to remove the span created on click
+                setTimeout(() => {
+                    ripples.remove()
+                },1000);
+            })
+        })
+    </script>
+</body>
+</html>
