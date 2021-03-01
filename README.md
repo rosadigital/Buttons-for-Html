@@ -1,11 +1,11 @@
 # Buttons on HTML
-## 💻 About this project - Sobre este projeto
+## 💻 About this project (sobre este projeto)
 En: This project aimed testing and learning HTML, CSS, and JS codes with focus on different types of buttons, based on youtube tutorials.
 
 Pt: Este projeto teve por objetivo testar e conhecer códigos em HTML, CSS, e JS com foco em diferentes tipos de botões, baseado em tutoriais do youtube.
 
 ---
-## ⚙️ Project demonstration (Demontração do projeto)
+## ⚙️ Project demonstration (demontração do projeto)
 
 - Checkbox with a minimalist style.
 	- Languages: HTML, and CSS
@@ -39,15 +39,15 @@ Pt: Este projeto teve por objetivo testar e conhecer códigos em HTML, CSS, e JS
 
 ---
 
-## 🚀 How to execute this project (Como executar este projeto)
+## 🚀 How to execute this project (como executar este projeto)
 
 To execute this project you will only need a browser and the program Visual Studio Code.
 
-### Requirements (Requisitos)
+### Requirements (requisitos)
 
 Before you begin, you will need to install on your computer the following tool: [VSCode](https://code.visualstudio.com/)
 
-#### 🎲 Running the codes (Rodando os códigos)
+#### 🎲 Running the codes (rodando os códigos)
 
 ```bash
 
@@ -67,7 +67,7 @@ Felipe Rosa on [LinkedIn](https://www.linkedin.com/in/felipe-rosa/)
 
 ---
 
-## 📝 Licença
+## 📝 License (licença)
 
 This project is licensed under [MIT](./LICENSE).
 
