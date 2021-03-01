@@ -17,23 +17,25 @@ Pt: Este projeto teve por objetivo testar e conhecer códigos em HTML, CSS, e JS
  
 - Neon buttons with effects on click.
 	- Languages: HTML, and CSS
-<p align="center"> <img alt="neon-button" title="#neon-button" src="./assets/neon-button.png" width="400px">
+<p align="center"> <img alt="neon-button" title="#neon-button" src="./assets/neon-button.gif" width="400px">
  
 - Neuomorphic checkbox-buttons.
 	- Languages: HTML, and CSS
-<p align="center"> <img alt="neuomorphic-checkbox-button" title="#neuomorphic-checkbox-button" src="./assets/neuomorphic-checkbox-button.png" width="200px">
+<p align="center"> <img alt="neuomorphic-checkbox-button" title="#neuomorphic-checkbox-button" src="./assets/neuomorphic-checkbox-button.gif" width="200px">
  
 - Calculator.
 	- Languages: HTML, and CSS
-<p align="center"> <img alt="calculator" title="#calculator" src="./assets/calculator.png" width="200px">
+<p align="center"> <img alt="calculator" title="#calculator" src="./assets/calculator.gif" width="200px">
  
 - Background color changing on click.
 	- Languages: HTML, CSS, and JS
-<p align="center"> <img alt="change_background_color" title="#change_background_color" src="./assets/change_background_color.png" width="400px">
+<p align="center"> <img alt="change_background_color" title="#change_background_color" src="./assets/background_color.gif" width="400px">
 
 - Background color and HEX code changing on click.
 	- Languages: HTML, CSS, and JS
-<p align="center"> <img alt="background_color_flip" title="#background_color_flip" src="./assets/background_color_flip.png" width="400px">
+<p align="center"> <img alt="background_color_flip_color" title="#background_color_flip_color" src="./assets/background_color_flip_color.gif" width="400px">
+
+<p align="center"> <img alt="background_color_flip_hex" title="#background_color_flip_hex" src="./assets/background_color_flip_hash.gif" width="400px">
 
 ---
 
