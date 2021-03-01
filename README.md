@@ -1,8 +1,8 @@
 # Buttons on HTML
 ## 💻 About this project (sobre este projeto)
-En: This project aimed testing and learning HTML, CSS, and JS codes with focus on different types of buttons, based on youtube tutorials.
+(:us:) This project aimed testing and learning HTML, CSS, and JS codes with focus on different types of buttons, based on youtube tutorials.
 
-Pt: Este projeto teve por objetivo testar e conhecer códigos em HTML, CSS, e JS com foco em diferentes tipos de botões, baseado em tutoriais do youtube.
+:brazil: Este projeto teve por objetivo testar e conhecer códigos em HTML, CSS, e JS com foco em diferentes tipos de botões, baseado em tutoriais do youtube.
 
 ---
 ## ⚙️ Project demonstration (demontração do projeto)
@@ -36,6 +36,23 @@ Pt: Este projeto teve por objetivo testar e conhecer códigos em HTML, CSS, e JS
 <p align="center"> <img alt="background_color_flip_color" title="#background_color_flip_color" src="./assets/background_color_flip_color.gif" width="400px">
 
 <p align="center"> <img alt="background_color_flip_hex" title="#background_color_flip_hex" src="./assets/background_color_flip_hash.gif" width="400px">
+
+
+---
+	
+## 💡 Knowledge acquired (demontração do projeto)
+
+- As a result of these projects, I learned:
+* integrate CSS and HTML codes;
+* setting definitions on CSS based on input type at the HTML code, considering modifications when some button is or not checked;
+* add event listener, as well as create and remove 'span' element on click;
+* import font from google apis to a CSS code;
+* create the hover effect on the box using CSS;
+* create lines around a box and animate it using CSS;
+* import sources to an HTML code from bootstrap;
+* using onclick to set and calculate values; and
+* setting a random number function on JS, so I could change background colors hex codes randomly.
+
 
 ---
 
